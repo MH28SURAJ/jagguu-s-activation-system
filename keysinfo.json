@@ -1,10 +1,8 @@
-{
-  "@AdminXJagguuhhhhBA80KDKU": {
-    "device": "e14f9b6373501056",
-    "expiry": "2026-12-31"
+[
+  {
+    "key": "JAGGUU0799",
+    "device_id": "e14f9b6373501056",
+    "expirydate": "2027-12-31",
+    "Allowoffline": false
   },
-  "testkey": {
-    "device": "xyz789deviceid",
-    "expiry": "2025-04-01"
-  }
-}
+]
