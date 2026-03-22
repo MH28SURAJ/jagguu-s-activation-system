@@ -8,7 +8,7 @@
   {
     "key": "@AdminXJagguuhhhhH8X62YNI",
     "device_id": "e14f9b6373501056",
-    "expirydate": "20-04-2026",
+    "expirydate": "20-02-2026",
     "Allowoffline": false
   },
   {
@@ -16,11 +16,11 @@
   "device_id": "e14f9b6373501056",
   "expirydate": "20-04-2027",
   "Allowoffline": false
-},
+  },
   {
   "key": "@AdminXJagguuhhhhLT5CT48H",
   "device_id": "e6c97ff82b64f04c",
   "expirydate": "20-04-2026",
   "Allowoffline": false
-},
+  },
 ]
