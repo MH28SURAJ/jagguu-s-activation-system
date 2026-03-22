@@ -3,18 +3,18 @@
     "key": "JAGGUU0799",
     "device_id": "e14f9b6373501056",
     "expirydate": "30-03-2027",
-    "Allowoffline": false
+    "Allowoffline": true
   },
   {
   "key": "@AdminXJagguuhhhhOJO20X3U",
   "device_id": "e14f9b6373501056",
   "expirydate": "31-04-2026",
-  "Allowoffline": false
+  "Allowoffline": true
   },
   {
   "key": "@AdminXJagguuhhhhLT5CT48H",
   "device_id": "e6c97ff82b64f04c",
   "expirydate": "20-04-2026",
-  "Allowoffline": false
+  "Allowoffline": true
   },
 ]
