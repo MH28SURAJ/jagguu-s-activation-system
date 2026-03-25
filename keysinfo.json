@@ -4,23 +4,17 @@
   "key": "@AdminXJagguuhhhhAAGFAVD1",
   "expirydate": "30-04-2026",
   "Allowoffline": false
-},
-{
-  "key": "@AdminXJagguuhhhhLT5CT48H",
-  "device_id": "e6c97ff82b64f04c",
-  "expirydate": "20-04-2026",
-  "Allowoffline": false
   },
   {
   "key": "@AdminXJagguuhhhhPU90K0H6",
   "device_id": "e6c97ff82b64f04c",
-  "expirydate": "28-06-2026",
+  "expirydate": "28-06-2027",
   "Allowoffline": false
 },
   {
   "key": "@AdminXJagguuhhhhJO697LVB",
   "device_id": "e14f9b6373501056",
-  "expirydate": "28-12-2018",
+  "expirydate": "28-12-2028",
   "Allowoffline": false
 },
 ]
