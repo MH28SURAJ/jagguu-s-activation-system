@@ -29,4 +29,76 @@
   "expirydate": "28-12-2099",
   "Allowoffline": false
 },
+{
+        "device_id": "Everyone",
+        "key": "free",
+        "expirydate": "15-05-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "show activation dialog",
+        "key": "none",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "AdminUrl",
+        "key": "https://t.me/HunterXSushil",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "Name",
+        "key": "@HunterXSushil",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "tg",
+        "key": "https://t.me/HunterLooteraOnTop",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "yt",
+        "key": "https://www.youtube.com/@SecretStation369",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "Show button",
+        "key": "everyone",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "AllowDevice",
+        "key": "everyone",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "Common Buttons",
+        "key": "everyone",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "Sayari",
+        "key": "Girls Is Beautiful But Money Is Powerful!",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "Sayari2",
+        "key": "Lalach Mat Karo!",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+{
+        "device_id": "bu",
+        "key": "/iqqhzFG0zzXR/iyemIvPfGgMlfk3NFtR17US2tuk+cBcBjjKCX33NYRi+ti0Vlazh8HKcFu44PoPq/8umZgeOyruAeyjCcMEDaVi012utcYJXIaVG/HAKUTyiaGyYjc3Hq0U6JrvPtv",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    }
 ]
