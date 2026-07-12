@@ -44,7 +44,7 @@
 
 {
         "device_id": "bu",
-        "key": "/iqqhzFG0zzXR/iyemIvPfGgMlfk3NFtR17US2tuk+cBcBjjKCX33NYRi+ti0Vlazh8HKcFu44PoPq/8umZgeOyruAeyjCcMEDaVi012utcYJXIaVG/HAKUTyiaGyYjc3Hq0U6JrvPtv",
+        "key": "https://automation-aaa37-default-rtdb.asia-southeast1.firebasedatabase.app/",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
