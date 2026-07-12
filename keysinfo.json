@@ -41,12 +41,7 @@
         "expirydate": "15-05-2026",
         "Allowoffline": false
     },
-  {
-  "key": "@AdminXJagguuhhhhZX52CUBK",
-  "device_id": "e6c97ff82b64f04c",
-  "expirydate": "29-06-2026",
-  "Allowoffline": false
-},
+  
 {
         "device_id": "show activation dialog",
         "key": "none",
@@ -172,5 +167,11 @@
         "key": "Cracker Ki Maaa Ki Chutttt...!",
         "expirydate": "31-12-2099",
         "Allowoffline": false
-    }
+    },
+  {
+  "key": "@AdminXJagguuhhhhZX52CUBK",
+  "device_id": "e6c97ff82b64f04c",
+  "expirydate": "29-06-2026",
+  "Allowoffline": false
+}
 ]
