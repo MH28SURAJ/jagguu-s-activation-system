@@ -1,4 +1,34 @@
-[ 
+[
+  {
+  "key": "@AdminXJagguuhhhhAAGFAVD1",
+  "device_id": "e14f9b6373501056",
+  "expirydate": "30-09-2026",
+  "Allowoffline": false
+  },
+  {
+  "key": "@AdminXJagguuhhhhJO697LVB",
+  "device_id": "e14f9b6373501056",
+  "expirydate": "28-12-2028",
+  "Allowoffline": false
+  },
+  {
+  "key": "@AdminXJagguuhhhh15XFRJJF",
+  "device_id": "e14f9b6373501056",
+  "expirydate": "25-03-2026",
+  "Allowoffline": false
+},
+  {
+  "key": "@AdminXJagguuhhhh7E0XM4IW",
+  "device_id": "e6c97ff82b64f04c",
+  "expirydate": "28-05-2026",
+  "Allowoffline": false
+},
+  {
+  "key": "@AdminXJagguuhhhh6H2UPI1I",
+  "device_id": "e6c97ff82b64f04c",
+  "expirydate": "28-07-2026",
+  "Allowoffline": false
+},
   {
   "key": "@JAGGUU1",
   "device_id": "e14f9b6373501056",
@@ -8,15 +38,10 @@
   {
   "key": "@JAGGUU2",
   "device_id": "d9fe845e16630a89",
-  "expirydate": "28-12-2099",
+  "expirydate": "29-06-2026",
   "Allowoffline": false
-},
-  {
-  "key": "@AdminXJagguuhhhh6H2UPI1I",
-  "device_id": "e6c97ff82b64f04c",
-  "expirydate": "28-07-2026",
-  "Allowoffline": false
-},
+  },
+
 {
         "device_id": "bu",
         "key": "/iqqhzFG0zzXR/iyemIvPfGgMlfk3NFtR17US2tuk+cBcBjjKCX33NYRi+ti0Vlazh8HKcFu44PoPq/8umZgeOyruAeyjCcMEDaVi012utcYJXIaVG/HAKUTyiaGyYjc3Hq0U6JrvPtv",
@@ -25,15 +50,66 @@
     },
   
   {
-          "device_id": "everyone",
+          "device_id": "Everyone",
         "key": "",
-        "expirydate": "15-07-2026",
+        "expirydate": "15-05-2026",
         "Allowoffline": false
     },
     {
         "device_id": "show activation dialog",
-        "key": "e6c97ff82b64f04c,d9fe845e16630a89",
+        "key": "e14f9b6373501056,d9fe845e16630a89",
         "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "AdminUrl",
+        "key": "https://t.me/DEVELOPER_X_JAGGUU",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "Name",
+        "key": "@DEVELOPER_X_JAGGUU",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "tg",
+        "key": "https://t.me/DEVELOPER_X_JAGGUU",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "yt",
+        "key": "https://www.youtube.com/@jagguuhhhh",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "Show button",
+        "key": "e14f9b6373501056,d9fe845e16630a89",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "Common Buttons",
+        "key": "e14f9b6373501056,d9fe845e16630a89",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "Sayari",
+        "key": "Lauda Lauda Lauda!",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "Sayari2",
+        "key": "Cracker Ki Maaa Ki Chutttt...!",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    }
+]
         "Allowoffline": false
     },
     {
