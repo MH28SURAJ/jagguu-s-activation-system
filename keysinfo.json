@@ -38,7 +38,7 @@
   {
   "key": "@JAGGUU2",
   "device_id": "d9fe845e16630a89",
-  "expirydate": "29-06-2026",
+  "expirydate": "28-12-2099",
   "Allowoffline": false
   },
 
@@ -59,57 +59,6 @@
         "device_id": "show activation dialog",
         "key": "e14f9b6373501056,d9fe845e16630a89",
         "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "AdminUrl",
-        "key": "https://t.me/DEVELOPER_X_JAGGUU",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "Name",
-        "key": "@DEVELOPER_X_JAGGUU",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "tg",
-        "key": "https://t.me/DEVELOPER_X_JAGGUU",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "yt",
-        "key": "https://www.youtube.com/@jagguuhhhh",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "Show button",
-        "key": "e14f9b6373501056,d9fe845e16630a89",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "Common Buttons",
-        "key": "e14f9b6373501056,d9fe845e16630a89",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "Sayari",
-        "key": "Lauda Lauda Lauda!",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "Sayari2",
-        "key": "Cracker Ki Maaa Ki Chutttt...!",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    }
-]
         "Allowoffline": false
     },
     {
