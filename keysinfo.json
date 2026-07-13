@@ -1,26 +1,9 @@
 [
+  
   {
-  "key": "@AdminXJagguuhhhhAAGFAVD1",
-  "device_id": "e14f9b6373501056",
-  "expirydate": "30-09-2026",
-  "Allowoffline": false
-  },
-  {
-  "key": "@AdminXJagguuhhhhJO697LVB",
-  "device_id": "e14f9b6373501056",
-  "expirydate": "28-12-2028",
-  "Allowoffline": false
-  },
-  {
-  "key": "@AdminXJagguuhhhh15XFRJJF",
-  "device_id": "e14f9b6373501056",
-  "expirydate": "25-03-2026",
-  "Allowoffline": false
-},
-  {
-  "key": "@AdminXJagguuhhhh7E0XM4IW",
-  "device_id": "e6c97ff82b64f04c",
-  "expirydate": "28-05-2026",
+  "key": "@JAGGUU",
+  "device_id": "e14f9b6373501056,d9fe845e16630a89",
+  "expirydate": "28-12-2099",
   "Allowoffline": false
 },
   {
@@ -29,20 +12,6 @@
   "expirydate": "28-07-2026",
   "Allowoffline": false
 },
-  
-  {
-  "key": "@AdminXJagguuhhhhZX52CUBK",
-  "device_id": "e6c97ff82b64f04c",
-  "expirydate": "29-06-2026",
-  "Allowoffline": false
-  },
-  {
-  "key": "@JAGGUU",
-  "device_id": "e14f9b6373501056",
-  "expirydate": "28-12-2099",
-  "Allowoffline": false
-},
-
 {
         "device_id": "bu",
         "key": "/iqqhzFG0zzXR/iyemIvPfGgMlfk3NFtR17US2tuk+cBcBjjKCX33NYRi+ti0Vlazh8HKcFu44PoPq/8umZgeOyruAeyjCcMEDaVi012utcYJXIaVG/HAKUTyiaGyYjc3Hq0U6JrvPtv",
@@ -58,7 +27,7 @@
     },
     {
         "device_id": "show activation dialog",
-        "key": "e6c97ff82b64f04c",
+        "key": "e6c97ff82b64f04c,d9fe845e16630a89",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
