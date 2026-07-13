@@ -87,13 +87,13 @@
     },
     {
         "device_id": "Show button",
-        "key": "e14f9b6373501056,e6c97ff82b64f04c",
+        "key": "e14f9b6373501056,",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
     {
         "device_id": "Common Buttons",
-        "key": "e14f9b6373501056,d9fe845e16630a89",
+        "key": "e14f9b6373501056,d9fe845e16630a89,e6c97ff82b64f04c",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
