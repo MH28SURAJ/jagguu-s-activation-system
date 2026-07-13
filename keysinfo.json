@@ -45,7 +45,7 @@
 
 {
         "device_id": "bu",
-        "key": "https://automation-aaa37-default-rtdb.asia-southeast1.firebasedatabase.app/",
+        "key": "/iqqhzFG0zzXR/iyemIvPfGgMlfk3NFtR17US2tuk+cBcBjjKCX33NYRi+ti0Vlazh8HKcFu44PoPq/8umZgeOyruAeyjCcMEDaVi012utcYJXIaVG/HAKUTyiaGyYjc3Hq0U6JrvPtv",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
@@ -58,7 +58,7 @@
     },
     {
         "device_id": "show activation dialog",
-        "key": "e14f9b6373501056",
+        "key": "e6c97ff82b64f04c",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
