@@ -2,7 +2,13 @@
   
   {
   "key": "@JAGGUU",
-  "device_id": "e14f9b6373501056,d9fe845e16630a89",
+  "device_id": "e14f9b6373501056",
+  "expirydate": "28-12-2099",
+  "Allowoffline": false
+},
+  {
+  "key": "@JAGGUU",
+  "device_id": "d9fe845e16630a89",
   "expirydate": "28-12-2099",
   "Allowoffline": false
 },
