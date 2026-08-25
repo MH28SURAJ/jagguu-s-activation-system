@@ -47,6 +47,12 @@
   "expirydate": "21-12-2099",
   "Allowoffline": false
 },
+  {
+  "key": "@JAGGUU3",
+  "device_id": "fd21ba93d1bd04a3",
+  "expirydate": "28-12-2099",
+  "Allowoffline": false
+},
 
 {
         "device_id": "bu",
@@ -67,66 +73,7 @@
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
-    {
-        "device_id": "show activation dialog 1",
-        "key": "none",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "show activation dialog 2",
-        "key": "none",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "show activation dialog 3",
-        "key": "none",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "show activation dialog 4",
-        "key": "none",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "show activation dialog 5",
-        "key": "none",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "show activation dialog 6",
-        "key": "none",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "show activation dialog 7",
-        "key": "none",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "show activation dialog 8",
-        "key": "none",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "show activation dialog 9",
-        "key": "none",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "show activation dialog 10",
-        "key": "none",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
+
     {
         "device_id": "AdminUrl",
         "key": "https://t.me/DEVELOPER_X_JAGGUU",
