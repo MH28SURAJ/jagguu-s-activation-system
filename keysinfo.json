@@ -45,12 +45,12 @@
     },
     {
         "device_id": "show activation dialog",
-        "key": "e6c97ff82b64f04c,fd21ba93d1bd04a3",
+        "key": "everyone",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
 
-    {
+  {
         "device_id": "AdminUrl",
         "key": "https://t.me/DEVELOPER_X_JAGGUU",
         "expirydate": "31-12-2099",
