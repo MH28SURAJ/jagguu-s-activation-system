@@ -7,14 +7,14 @@
 },
   {
         "device_id": "e14f9b6373501056",
-        "key": "@JAGGUU1",
+        "key": "@@JAGGUU1",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
   {
         "device_id": "d9fe845e16630a89",
-        "key": "@JAGGUU2",
-        "expirydate": "01-09-2026",
+        "key": "@@JAGGUU2",
+        "expirydate": "31-12-2099",
         "Allowoffline": false
     },
   {
