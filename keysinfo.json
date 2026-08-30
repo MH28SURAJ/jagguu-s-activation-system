@@ -100,5 +100,12 @@
   "key": "91 Club:https://chennai91.com/#/login,55 Club:https://chennai91.com/#/login,In999:https://chennai91.com/#/login,Lottery7:https://chennai91.com/#/login,JaiClub:https://chennai91.com/#/login,Jalwa:https://chennai91.com/#/login,OkWin:https://chennai91.com/#/login,51Game:https://chennai91.com/#/login,YaarWin:https://chennai91.com/#/login,6Club:https://chennai91.com/#/login,Bdg Win:https://chennai91.com/#/login,Bdg Game:https://chennai91.com/#/login,Raja Game:https://chennai91.com/#/login",
   "expirydate": "31-12-2099",
   "Allowoffline": false
-}
+    },
+    {
+        "device_id": "allowDevice",
+        "key": "everyone",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    }
+]
 ]
