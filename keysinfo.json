@@ -1,29 +1,5 @@
 [
   {
-  "key": "@AdminXJagguuhhhhAAGFAVD1",
-  "device_id": "e14f9b6373501056",
-  "expirydate": "30-09-2026",
-  "Allowoffline": false
-  },
-  {
-  "key": "@AdminXJagguuhhhhJO697LVB",
-  "device_id": "e14f9b6373501056",
-  "expirydate": "28-12-2028",
-  "Allowoffline": false
-  },
-  {
-  "key": "@AdminXJagguuhhhh15XFRJJF",
-  "device_id": "e14f9b6373501056",
-  "expirydate": "25-03-2026",
-  "Allowoffline": false
-},
-  {
-  "key": "@AdminXJagguuhhhh7E0XM4IW",
-  "device_id": "e6c97ff82b64f04c",
-  "expirydate": "28-05-2026",
-  "Allowoffline": false
-},
-  {
   "key": "@AdminXJagguuhhhh6H2UPI1I",
   "device_id": "e6c97ff82b64f04c",
   "expirydate": "28-09-2026",
@@ -35,90 +11,6 @@
   "expirydate": "28-12-2099",
   "Allowoffline": false
 },
-  {
-  "key": "@JAGGUU2",
-  "device_id": "d9fe845e16630a89",
-  "expirydate": "28-12-2099",
-  "Allowoffline": false
-  },
-  {
-  "key": "1234",
-  "device_id": "00fcef18c8c666c6",
-  "expirydate": "21-12-2099",
-  "Allowoffline": false
-},
-
-{
-        "device_id": "bu",
-        "key": "/iqqhzFG0zzXR/iyemIvPfGgMlfk3NFtR17US2tuk+cBcBjjKCX33NYRi+ti0Vlazh8HKcFu44PoPq/8umZgeOyruAeyjCcMEDaVi012utcYJXIaVG/HAKUTyiaGyYjc3Hq0U6JrvPtv",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-  
-  {
-          "device_id": "Everyone",
-        "key": "",
-        "expirydate": "15-05-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "show activation dialog",
-        "key":"e6c97ff82b64f04c,e14f9b6373501056",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "AdminUrl",
-        "key": "https://t.me/DEVELOPER_X_JAGGUU",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "Name",
-        "key": "@DEVELOPER_X_JAGGUU",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "tg",
-        "key": "https://t.me/DEVELOPER_X_JAGGUU",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    
-    {
-        "device_id": "Show button",
-        "key": "everyone",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "Common Buttons",
-        "key": "everyone",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "Sayari",
-        "key": "शेट्ट उपटे भारे बांधे !",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "Sayari2",
-        "key": "गद्दार च्या मायची गांड...!",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-  
-
-{
-        "device_id": "Url",
-        "key": "91 Club:https://91444.in/#/login,55 Club:https://ayhbaw55.com/#/login,In999:https://www.in999nn.com/#/login,Lottery7:https://www.lottery7dd.com/#/login,JaiClub:https://www.jaiclub25.com/#/login,Jalwa:https://jgdream.com/#/login,OkWin:https://8okwin1.com/#/login,51Game:https://51game2.com/#/login,YaarWin:https://4yaarwin.com/#/login,6Club:https://www.6clubj.com/#/login,Bdg Win:https://bdgwinuu.com/#/login",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    }
-]},
   {
   "key": "@JAGGUU2",
   "device_id": "d9fe845e16630a89",
