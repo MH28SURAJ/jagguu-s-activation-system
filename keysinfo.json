@@ -101,13 +101,13 @@
     
     {
         "device_id": "Show button",
-        "key": "d9fe845e16630a89",
+        "key": "d9fe845e16630a89,d3a541652834b4d4",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
     {
         "device_id": "Common Buttons",
-        "key": "everyone",
+        "key": "d3a541652834b4d4",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
