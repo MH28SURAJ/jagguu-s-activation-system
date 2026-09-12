@@ -60,6 +60,12 @@
   "expirydate": "29-09-2026",
   "Allowoffline": false
 },
+  {
+  "key": "D_X_J#601d77b435d37991",
+  "device_id": "601d77b435d37991",
+  "expirydate": "29-09-2026",
+  "Allowoffline": false
+},
 {
         "device_id": "bu",
         "key": "",
